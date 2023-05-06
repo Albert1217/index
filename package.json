@@ -1,0 +1,21 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "\"Bu mening loyiham\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALbert",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "ignore": "^5.2.4",
+    "modules": "^0.4.0",
+    "moment": "^2.29.4",
+    "node": "^20.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
