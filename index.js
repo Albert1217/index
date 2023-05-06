@@ -25,7 +25,7 @@ Account.tellMeTime();
 
 console.log("=============");
 
-const myAccount = new Account("Albert", 200000, 974555766654);
+const myAccount = new Account("Albert!", 200000, 974555766654);
 myAccount.giveMeDetails();
 
 myAccount.makeDeposit(1000000);

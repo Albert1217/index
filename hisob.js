@@ -16,3 +16,5 @@ hisob.ayirish = (a, b) => {
   return a - b;
 };
 module.exports = hisob;
+
+console.log("Hisoblash");
